@@ -1,0 +1,6 @@
+# Master-Thesis-Project
+This repo will have all the file related to "Image-to-Image translation (I2I) methods with the use of Hyper Kvasir dataset"
+
+The aim of my master thesis is to analyze the generative properties of Image-to-Image translation (I2I) methods with the use of cycleGAN model on Hyper Kvasir dataset. For example to what extent they are able to generate translations with different realistic properties. For example for polyps, the polyp can be in different positions and be of different size and shape.
+
+For this thesis,first i will be generating synthetic data with the use of blue round shapes at random location using the original dataset, then i am implementing cycleGAN model to train my model, then i will try to evaluate the model performance, and try to generate images in the testing phase.I am also going to evaluate the distribution of shapes of circle and level of variability in generation of the generated images. The input image could be a medical image of a healthy patient, and the output shows how the image would look if the patient had some disease.

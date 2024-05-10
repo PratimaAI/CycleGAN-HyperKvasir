@@ -1,0 +1,8 @@
+Horse2Zebra_Dataset/
+Archive/
+Working_Code_Thesis/
+*.jpg
+*.png
+*.pth
+*.ipynb_checkpoints
+*.DS_Store
